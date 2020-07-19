@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ranker/static/css/main.67663238.chunk.css",
-    "main.js": "/ranker/static/js/main.299ac455.chunk.js",
-    "main.js.map": "/ranker/static/js/main.299ac455.chunk.js.map",
+    "main.js": "/ranker/static/js/main.2068e09a.chunk.js",
+    "main.js.map": "/ranker/static/js/main.2068e09a.chunk.js.map",
     "runtime-main.js": "/ranker/static/js/runtime-main.5a9ed4df.js",
     "runtime-main.js.map": "/ranker/static/js/runtime-main.5a9ed4df.js.map",
     "static/js/2.fe4754f2.chunk.js": "/ranker/static/js/2.fe4754f2.chunk.js",
     "static/js/2.fe4754f2.chunk.js.map": "/ranker/static/js/2.fe4754f2.chunk.js.map",
     "index.html": "/ranker/index.html",
-    "precache-manifest.87baa08b19de47173ecc008f51675c48.js": "/ranker/precache-manifest.87baa08b19de47173ecc008f51675c48.js",
+    "precache-manifest.2bc81c606dee510ad37af6ea9ab1b500.js": "/ranker/precache-manifest.2bc81c606dee510ad37af6ea9ab1b500.js",
     "service-worker.js": "/ranker/service-worker.js",
     "static/css/main.67663238.chunk.css.map": "/ranker/static/css/main.67663238.chunk.css.map",
     "static/js/2.fe4754f2.chunk.js.LICENSE.txt": "/ranker/static/js/2.fe4754f2.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.5a9ed4df.js",
     "static/js/2.fe4754f2.chunk.js",
     "static/css/main.67663238.chunk.css",
-    "static/js/main.299ac455.chunk.js"
+    "static/js/main.2068e09a.chunk.js"
   ]
 }
